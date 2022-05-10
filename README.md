@@ -3,4 +3,4 @@
 ## Random-Quotes
 This is repositories of my "Random Quotes Generator", a platform for you to generate motivational quote to encourge yourself to start the day.
 
-Demo link: <a href:"htpps://richardramaab.me/Random-Quotes">Random Quotes Generator</a>
+Demo link: [Random Quotes Generator](htpps://richardramaab.me/Random-Quotes)
