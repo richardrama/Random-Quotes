@@ -108,3 +108,36 @@ body {
     text-decoration: none;    
     color: #BDBDBD;
 }
+
+/* Responsive Media */
+@media (max-width: 450px) {
+    .container {
+        width: 300px;
+    }
+
+    .container .title {
+        font-size: 14px;
+    }
+    
+    .content .quote-area .quote {
+        font-size: 10px;
+    }
+
+    .content .quote-area i{
+        font-size: 10px;
+    }
+
+    .content .author .name {
+        font-size: 12px;
+    }
+
+    .button button{
+        padding: 8px 20px;
+        font-size: 10px;
+    }
+
+    .foot {
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+}
